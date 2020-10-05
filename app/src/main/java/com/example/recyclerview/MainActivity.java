@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         s1 = getResources().getStringArray(R.array.recipe);
         s2 = getResources().getStringArray(R.array.description);
+
+        MyAdapter myAdapter = new MyAdapter(this, s1, s1, images);
     }
 }
