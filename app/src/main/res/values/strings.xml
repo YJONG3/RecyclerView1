@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Recycler View</string>
+
+    <string-array name="recipe">
+        <item>Kale/Lemon Sandwiches</item>
+        <item>Mango-Lime Bean Salad</item>
+        <item>Sweet Potato and Lentil Soup with Shiitake Mushrooms</item>
+        <item>Lime Mousse</item>
+        <item>Broiled Tilapia Parmesan</item>
+        <item>Chocolate Cake</item>
+        <item>Apple Pie</item>
+        <item>Fried Rice</item>
+        <item>Pasta</item>
+        <item>Burger</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>This sandwich is stuningly delicious and tastes as good as it is healthy. </item>
+        <item>Everyone loves this. </item>
+        <item>This soup is so good and Easy. </item>
+        <item>This is FABULOUS alone. </item>
+        <item>Favourite recipe for this farm raised fish. </item>
+        <item>Best! </item>
+        <item>Good! </item>
+        <item>Tasty! </item>
+        <item>Nice! </item>
+        <item>Amazing! </item>
+
+
+    </string-array>
 </resources>
